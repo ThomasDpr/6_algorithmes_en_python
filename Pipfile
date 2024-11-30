@@ -1,0 +1,25 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+prettytable = "*"
+pandas = "*"
+matplotlib = "*"
+plotly = "*"
+dash = "*"
+colorama = "*"
+seaborn = "*"
+openpyxl = "*"
+inquirerpy = "*"
+rich = "*"
+psutil = "*"
+numpy = "*"
+dash-bootstrap-components = "*"
+dash-extensions = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.11"
